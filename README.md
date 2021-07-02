@@ -23,8 +23,8 @@ limited and that saving your work may be more difficult.
 For simplicity, here a running list of [mybinder.org](https://mybinder.org)
 links:
 
-- GDU and ACIS PRISM Basics: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oats-center/notebooks/HEAD?filepath=GDU_and_ACIS_PRISM%2FGDU_and_ACIS_PRISM.ipynb)
-- GDU and ACIS PRISM Basics (assignment): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OATS-Group/notebooks/HEAD?filepath=GDU_and_ACIS_PRISM%2FGDU_and_ACIS_PRISM-assignment.ipynb)
+- GDU and ACIS PRISM Basics: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makrozelle/notebooks/HEAD?filepath=GDU_and_ACIS_PRISM%2FGDU_and_ACIS_PRISM.ipynb)
+- GDU and ACIS PRISM Basics (assignment): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makrozelle/notebooks/HEAD?filepath=GDU_and_ACIS_PRISM%2FGDU_and_ACIS_PRISM-assignment.ipynb)
 
 ## Run locally
 
